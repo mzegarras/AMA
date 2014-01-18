@@ -1,4 +1,1 @@
-AMA
-===
-
-Android Mobile Application
+Android Mobile Application - Laboratorio de Clases
